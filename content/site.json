@@ -1,0 +1,17 @@
+{
+  "site": {
+    "name": "Estudio Contable",
+    "businessName": "{{businessName}}",
+    "tagline": "Contabilidad para PYMES en Paraguay",
+    "description": "Servicios contables, impositivos y laborales para PYMES y profesionales en Paraguay. Consulta gratuita.",
+    "url": "https://contable.paragu-ai.com",
+    "phone": "595981000000",
+    "email": "contacto@estudiocontable.com.py",
+    "address": "Asunción, Paraguay",
+    "social": { "instagram": "", "facebook": "" },
+    "whatsapp": {
+      "number": "595981000000",
+      "message": "Hola! Quiero información sobre servicios contables"
+    }
+  }
+}

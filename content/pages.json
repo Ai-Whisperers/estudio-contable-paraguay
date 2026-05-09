@@ -1,0 +1,51 @@
+{
+  "home": {
+    "sections": [
+      { "id": "hero", "contentKey": "home.hero" },
+      { "id": "stats", "contentKey": "home.stats" },
+      { "id": "servicesPreview", "contentKey": "home.services" },
+      { "id": "trust", "contentKey": "home.trust" },
+      { "id": "pricing", "contentKey": "home.pricing" },
+      { "id": "process", "contentKey": "home.process" },
+      { "id": "testimonials", "contentKey": "home.testimonials" },
+      { "id": "faq", "contentKey": "home.faq" },
+      { "id": "contact", "contentKey": "home.contact" }
+    ]
+  },
+  "servicios": {
+    "sections": [
+      { "id": "hero", "contentKey": "serviciosPage.hero" },
+      { "id": "intro", "contentKey": "serviciosPage.intro" },
+      { "id": "serviceCategories", "contentKey": "serviciosPage.categories" },
+      { "id": "ctaBanner", "contentKey": "serviciosPage.cta" }
+    ]
+  },
+  "planes": {
+    "sections": [
+      { "id": "hero", "contentKey": "planesPage.hero" },
+      { "id": "pricingSection", "contentKey": "planesPage" },
+      { "id": "ctaBanner", "contentKey": "planesPage.cta" }
+    ]
+  },
+  "faq": {
+    "sections": [
+      { "id": "hero", "contentKey": "faqPage.hero" },
+      { "id": "faqCategories", "contentKey": "faqPage.categories" },
+      { "id": "ctaBanner", "contentKey": "home.contact" }
+    ]
+  },
+  "contacto": {
+    "sections": [
+      { "id": "hero", "contentKey": "contactoPage.hero" },
+      { "id": "contactInfo", "contentKey": "contactoPage.info" },
+      { "id": "contactForm", "contentKey": "contactoPage.form" },
+      { "id": "ctaBanner", "contentKey": "contactoPage.cta" }
+    ]
+  },
+  "privacidad": {
+    "sections": [
+      { "id": "hero", "contentKey": "privacidadPage.hero" },
+      { "id": "privacyContent", "contentKey": "privacidadPage.content" }
+    ]
+  }
+}

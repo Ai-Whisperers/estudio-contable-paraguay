@@ -1,0 +1,182 @@
+{
+  "contabilidad": {
+    "name": "Contabilidad Mensual",
+    "icon": "calculator",
+    "hero": {
+      "headline": "Contabilidad Mensual",
+      "subheadline": "Registración, conciliación y balances para que estés al día"
+    },
+    "description": "Mantenemos tu contabilidad al día con registración mensual de comprobantes, conciliación bancaria y balances. Usamos sistema contable con acceso web para que veas tus números en tiempo real.",
+    "benefits": [
+      { "icon": "check-circle", "title": "Al Día Siempre", "description": "Contabilidad mensual presentada a tiempo. Cero atrasos." },
+      { "icon": "bar-chart", "title": "Visibilidad Real", "description": "Accedé a tu balance y estado de resultados desde cualquier dispositivo." },
+      { "icon": "shield", "title": "Cumplimiento Garantizado", "description": "Estados financieros conforme a normativa paraguaya." }
+    ],
+    "items": [
+      "Carga mensual de facturas en sistema contable",
+      "Conciliación bancaria mensual",
+      "Libro diario y mayor digital",
+      "Balance general mensual",
+      "Estado de resultados mensual",
+      "Cierre anual y presentación de EEFF",
+      "Informes gerenciales a medida"
+    ],
+    "process": [
+      "Recepción de comprobantes (WhatsApp, email o plataforma)",
+      "Registración en sistema contable",
+      "Conciliación bancaria",
+      "Generación de balance mensual",
+      "Presentación de obligaciones"
+    ]
+  },
+  "impuestos": {
+    "name": "Liquidación de Impuestos",
+    "icon": "file-text",
+    "hero": {
+      "headline": "Liquidación de Impuestos",
+      "subheadline": "IVA, IRE, IRP, RESIMPLE e IDU presentados a tiempo vía Marangatu"
+    },
+    "description": "Gestionamos todas tus obligaciones tributarias ante la DNIT (ex-SET). IVA mensual, IRE, IRP, IDU y más. Todo presentado a tiempo vía Marangatu para que no tengas multas.",
+    "benefits": [
+      { "icon": "zap", "title": "Cero Multas", "description": "Presentaciones a tiempo garantizadas. Nunca un vencimiento vencido." },
+      { "icon": "calculator", "title": "Optimización Fiscal", "description": "Planificamos para que pagues lo justo, ni más ni menos." },
+      { "icon": "file-check", "title": "Todo Digital", "description": "e-Kuatia, Marangatu, timbrado. Gestionamos todo electrónicamente." }
+    ],
+    "items": [
+      "Liquidación mensual de IVA (Formulario 120)",
+      "Liquidación de IRE Simple, General y RESIMPLE",
+      "Liquidación de IRP (RSP + RGC)",
+      "Liquidación de IDU (Dividendos y Utilidades)",
+      "Habilitación y gestión de e-Kuatia / e-Kuatia'i",
+      "Gestión y renovación de Timbrado",
+      "Presentaciones y declaraciones juradas vía Marangatu",
+      "Certificados de cumplimiento tributario"
+    ],
+    "process": [
+      "Revisión de comprobantes del mes",
+      "Cálculo de impuestos",
+      "Preparación de declaraciones juradas",
+      "Presentación vía Marangatu",
+      "Confirmación y archivo de comprobante de pago"
+    ]
+  },
+  "laboral": {
+    "name": "Sueldos e IPS",
+    "icon": "users",
+    "hero": {
+      "headline": "Sueldos e IPS",
+      "subheadline": "Liquidación de salarios, aportes y comunicación REOP-MTESS"
+    },
+    "description": "Gestionamos la liquidación mensual de sueldos, cálculos de IPS (9% obrero + 16.5% patronal), aguinaldo, vacaciones y finiquitos. Todo en regla con IPS y MTESS.",
+    "benefits": [
+      { "icon": "users", "title": "Sueldos al Día", "description": "Liquidación mensual puntual. Aguinaldo, vacaciones y finiquitos calculados automáticamente." },
+      { "icon": "shield-check", "title": "IPS en Regla", "description": "Aportes calculados y presentados mensualmente. Sin mora ni recargos." },
+      { "icon": "clipboard-list", "title": "REOP-MTESS", "description": "Comunicación obligatoria desde 2025. Nosotros gestionamos todo." }
+    ],
+    "items": [
+      "Liquidación mensual de salarios",
+      "Cálculo de aguinaldo",
+      "Aportes IPS (obrero + patronal)",
+      "Comunicación REOP-MTESS",
+      "Vacaciones, preaviso, finiquito e indemnizaciones",
+      "Alta y baja de trabajadores en IPS",
+      "Contratos laborales y registro",
+      "Certificados de trabajo y saldos"
+    ],
+    "process": [
+      "Relevamiento de novedades del mes",
+      "Cálculo de salarios y descuentos",
+      "Generación de recibos de sueldo",
+      "Presentación de aportes IPS",
+      "Comunicación REOP-MTESS",
+      "Archivo de documentación laboral"
+    ]
+  },
+  "asesoria": {
+    "name": "Asesoría Tributaria",
+    "icon": "shield",
+    "hero": {
+      "headline": "Asesoría Tributaria",
+      "subheadline": "Planificación fiscal y defensa ante fiscalizaciones de la DNIT"
+    },
+    "description": "Te acompañamos en todo lo relacionado a tus obligaciones tributarias. Desde planificación fiscal anual hasta defensa en fiscalizaciones de la DNIT.",
+    "benefits": [
+      { "icon": "trending-up", "title": "Planificación", "description": "Estrategia fiscal anual para minimizar tu carga impositiva legalmente." },
+      { "icon": "shield", "title": "Defensa Integral", "description": "Respuesta a requerimientos, sumarios y recursos. Estamos a tu lado." },
+      { "icon": "message-circle", "title": "Consultas Ilimitadas", "description": "WhatsApp directo con tu contador asignado. Respondemos el mismo día." }
+    ],
+    "items": [
+      "Diagnóstico impositivo inicial sin costo",
+      "Planificación tributaria anual",
+      "Respuesta a requerimientos de la DNIT",
+      "Defensa en fiscalizaciones y sumarios",
+      "Consultoría continua vía WhatsApp",
+      "Análisis de impacto de nuevas leyes"
+    ],
+    "process": [
+      "Revisión de situación fiscal actual",
+      "Identificación de riesgos y oportunidades",
+      "Elaboración de plan de acción",
+      "Acompañamiento continuo"
+    ]
+  },
+  "societario": {
+    "name": "Constitución de Empresas",
+    "icon": "briefcase",
+    "hero": {
+      "headline": "Constitución de Empresas",
+      "subheadline": "EAS en 72 horas, SRL, SA y más. Todo listo para operar."
+    },
+    "description": "Te ayudamos a elegir el tipo societario ideal y gestionamos todo el proceso: desde la inscripción del RUC hasta la habilitación municipal. EAS en 72 horas.",
+    "benefits": [
+      { "icon": "zap", "title": "Rápido", "description": "EAS en 72 horas hábiles vía MIC. SRL en 2-4 semanas." },
+      { "icon": "file-text", "title": "Completo", "description": "RUC, habilitación municipal, marca, libros societarios. Todo incluido." },
+      { "icon": "globe", "title": "Inversores", "description": "Paquete especial para inversores extranjeros con atención en inglés y portugués." }
+    ],
+    "items": [
+      "Inscripción de RUC (persona física o jurídica)",
+      "Constitución de EAS en 72h vía MIC",
+      "Constitución de SRL y SA",
+      "Constitución de Unipersonal",
+      "Actualización de datos en DNIT",
+      "Habilitación municipal vía SUACE",
+      "Inscripción de marcas en DINAPI",
+      "Paquete para inversores extranjeros"
+    ],
+    "process": [
+      "Definición del tipo societario",
+      "Elaboración de documentos constitutivos",
+      "Inscripción en registros públicos",
+      "Obtención del RUC",
+      "Habilitación municipal",
+      "Apertura de cuenta bancaria"
+    ]
+  },
+  "auditoria": {
+    "name": "Auditoría y Balances",
+    "icon": "clipboard-check",
+    "hero": {
+      "headline": "Auditoría y Balances",
+      "subheadline": "Balances certificados, auditoría externa y due diligence"
+    },
+    "description": "Auditoría de estados financieros, balances certificados para bancos y DNCP, y due diligence contable para compraventa de empresas.",
+    "benefits": [
+      { "icon": "search", "title": "Transparencia", "description": "Auditoría independiente que da confianza a bancos, inversores y autoridades." },
+      { "icon": "building", "title": "Licitaciones", "description": "Balances certificados para participar en licitaciones DNCP." },
+      { "icon": "file-check", "title": "Compliance", "description": "Cumplimiento con SEPRELAD, bancos y requisitos societarios." }
+    ],
+    "items": [
+      "Auditoría de estados financieros anuales",
+      "Informes certificados para bancos y SEPRELAD",
+      "Balances para licitaciones DNCP",
+      "Auditoría interna y revisión de controles",
+      "Due diligence contable para compraventa"
+    ],
+    "process": [
+      "Planificación de auditoría",
+      "Trabajo de campo",
+      "Emisión de informes",
+      "Presentación a entidades"
+    ]
+  }
+}

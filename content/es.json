@@ -1,0 +1,519 @@
+{
+  "siteName": "{{businessName}}",
+  "siteTitle": "{{businessName}} — Estudio Contable en Paraguay | Contabilidad para PYMES",
+  "siteDescription": "Contabilidad mensual, liquidación de IVA, IRE, IRP y sueldos para PYMES y profesionales en Paraguay. Presentaciones vía Marangatu al día. Consulta gratuita.",
+  "navigation": {
+    "businessName": "{{businessName}}",
+    "ctaText": "Consultar por WhatsApp",
+    "ctaHref": "https://wa.me/{{whatsapp}}?text={{whatsappMessage}}",
+    "items": [
+      { "label": "Inicio", "href": "/" },
+      { "label": "Servicios", "href": "/servicios" },
+      { "label": "Planes", "href": "/planes" },
+      { "label": "FAQ", "href": "/faq" },
+      { "label": "Contacto", "href": "/contacto" }
+    ]
+  },
+  "footer": {
+    "businessName": "{{businessName}}",
+    "tagline": "Tu aliado contable en Paraguay",
+    "columns": [
+      {
+        "title": "Servicios",
+        "links": [
+          { "label": "Contabilidad Mensual", "href": "/servicios/contabilidad" },
+          { "label": "Liquidación de Impuestos", "href": "/servicios/impuestos" },
+          { "label": "Sueldos e IPS", "href": "/servicios/laboral" },
+          { "label": "Constitución de Empresas", "href": "/servicios/societario" },
+          { "label": "Planes Mensuales", "href": "/planes" }
+        ]
+      },
+      {
+        "title": "Información",
+        "links": [
+          { "label": "FAQ", "href": "/faq" },
+          { "label": "Contacto", "href": "/contacto" },
+          { "label": "Política de Privacidad", "href": "/privacidad" }
+        ]
+      }
+    ],
+    "contact": {
+      "address": "Asunción, Paraguay",
+      "phone": "+595 {{phone}}",
+      "email": "{{email}}",
+      "hours": "Lun a Vie: 8:00 - 18:00 | Sáb: 8:00 - 12:00"
+    },
+    "copyright": "© {{year}} {{businessName}}. Todos los derechos reservados.",
+    "disclaimer": "Matriculados en el Colegio de Contadores del Paraguay (CCP)",
+    "madeBy": "Diseño web por Ai-Whisperers"
+  },
+  "home": {
+    "seo": {
+      "title": "{{businessName}} — Estudio Contable en Paraguay | Contabilidad para PYMES",
+      "description": "Contabilidad mensual, IVA, IRE, IRP y sueldos para PYMES y profesionales en Paraguay. Consulta gratuita. Servicio 100% digital con contador asignado."
+    },
+    "hero": {
+      "headline": "Tu contabilidad en <span class=\"text-[var(--color-accent)]\">manos expertas</span>",
+      "subheadline": "Servicios contables, impositivos y laborales para PYMES en Paraguay. Cumplimos con la DNIT para que vos te concentres en tu negocio.",
+      "ctaPrimaryText": "Agendar Consulta Gratuita",
+      "ctaPrimaryHref": "/contacto",
+      "ctaSecondaryText": "Ver Planes",
+      "ctaSecondaryHref": "/planes"
+    },
+    "stats": {
+      "title": "",
+      "items": [
+        { "number": "15+", "label": "Años de Experiencia" },
+        { "number": "200+", "label": "Clientes Activos" },
+        { "number": "0", "label": "Multas por Atraso" },
+        { "number": "98%", "label": "Renovación Anual" }
+      ]
+    },
+    "services": {
+      "title": "Servicios Contables Completos",
+      "subtitle": "Todo lo que tu empresa necesita para estar al día con la DNIT, IPS y MTESS",
+      "items": [
+        {
+          "id": "contabilidad",
+          "icon": "calculator",
+          "title": "Contabilidad Mensual",
+          "description": "Registración completa, conciliación bancaria, balance mensual y cierre anual. Acceso web a tus números en tiempo real.",
+          "link": "/servicios/contabilidad"
+        },
+        {
+          "id": "impuestos",
+          "icon": "file-text",
+          "title": "Liquidación de Impuestos",
+          "description": "IVA, IRE, IRP, RESIMPLE e IDU. Presentaciones vía Marangatu a tiempo. Gestión de e-Kuatia y timbrado.",
+          "link": "/servicios/impuestos"
+        },
+        {
+          "id": "laboral",
+          "icon": "users",
+          "title": "Sueldos e IPS",
+          "description": "Liquidación de salarios, aguinaldos, aportes IPS y comunicación REOP-MTESS. Alta y baja de trabajadores.",
+          "link": "/servicios/laboral"
+        },
+        {
+          "id": "asesoria",
+          "icon": "shield",
+          "title": "Asesoría Tributaria",
+          "description": "Planificación fiscal, defensa en fiscalizaciones y consultoría continua vía WhatsApp.",
+          "link": "/servicios/asesoria"
+        },
+        {
+          "id": "societario",
+          "icon": "briefcase",
+          "title": "Constitución de Empresas",
+          "description": "EAS en 72 horas, SRL, SA, RUC y habilitaciones. Paquete completo para abrir tu empresa en Paraguay.",
+          "link": "/servicios/societario"
+        },
+        {
+          "id": "auditoria",
+          "icon": "clipboard-check",
+          "title": "Auditoría y Balances",
+          "description": "Auditoría externa para bancos, balances para licitaciones DNCP y due diligence contable.",
+          "link": "/servicios/auditoria"
+        }
+      ]
+    },
+    "trust": {
+      "title": "¿Por qué elegirnos?",
+      "items": [
+        { "icon": "shield-check", "title": "Cero Multas", "description": "Garantizamos presentaciones a tiempo vía Marangatu. Si no cumplimos, te cubrimos." },
+        { "icon": "zap", "title": "Respuesta en 24h", "description": "Consultas vía WhatsApp respondidas en el día hábil. Sin esperas ni vueltas." },
+        { "icon": "laptop", "title": "100% Digital", "description": "Subí tus comprobantes desde cualquier lado. Accedé a tus balances en tiempo real." },
+        { "icon": "clock", "title": "Sin Sorpresas", "description": "Sabés exactamente cuánto pagás de IVA e IRP antes de cada vencimiento." }
+      ]
+    },
+    "pricing": {
+      "title": "Planes Mensuales",
+      "subtitle": "Honorarios claros desde el primer día. Sin sorpresas.",
+      "plans": [
+        {
+          "id": "unipersonal",
+          "name": "Profesional",
+          "price": "450.000 Gs/mes",
+          "description": "Para profesionales independientes con IRP y hasta 30 facturas al mes.",
+          "features": [
+            "Liquidación mensual de IVA e IRP",
+            "Hasta 30 comprobantes al mes",
+            "Renovación de Timbrado incluida",
+            "Consultas por WhatsApp",
+            "Declaración jurada anual"
+          ]
+        },
+        {
+          "id": "pyme",
+          "name": "PYME",
+          "price": "1.200.000 Gs/mes",
+          "description": "Para empresas con hasta 10 empleados y contabilidad mensual completa.",
+          "features": [
+            "Contabilidad mensual completa",
+            "Liquidación IVA + IRE + IRP",
+            "Hasta 10 sueldos + IPS + MTESS",
+            "Balance mensual y anual",
+            "Contador asignado exclusivo"
+          ],
+          "featured": true
+        },
+        {
+          "id": "empresa",
+          "name": "Empresa",
+          "price": "A consultar",
+          "description": "Para empresas con contabilidad de costos, sucursales o auditoría externa.",
+          "features": [
+            "Contabilidad de costos y centros",
+            "Sueldos ilimitados + aguinaldos",
+            "Auditoría externa anual",
+            "Planificación tributaria trimestral",
+            "Reunión mensual con dirección"
+          ]
+        }
+      ],
+      "ctaText": "Agendar Diagnóstico Gratuito",
+      "ctaHref": "/contacto"
+    },
+    "process": {
+      "title": "Cómo trabajamos",
+      "subtitle": "Un proceso simple y transparente",
+      "steps": [
+        { "number": "01", "title": "Diagnóstico Gratuito", "description": "Revisamos tu situación actual: RUC, deudas con SET, obligaciones pendientes." },
+        { "number": "02", "title": "Propuesta Clara", "description": "Te enviamos un plan mensual con alcance, honorarios y cronograma." },
+        { "number": "03", "title": "Onboarding", "description": "Traspaso ordenado desde tu contador anterior. Acceso a Marangatu configurado." },
+        { "number": "04", "title": "Operación Mensual", "description": "Vos nos enviás comprobantes, nosotros liquidamos y presentamos todo a tiempo." },
+        { "number": "05", "title": "Reporte Periódico", "description": "Balance y resumen de impuestos cada mes. Reunión trimestral para planificar." }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Respondemos tus dudas sobre servicios contables en Paraguay",
+      "items": [
+        {
+          "q": "¿La primera consulta tiene costo?",
+          "a": "No. La primera reunión de diagnóstico (30 a 45 minutos, presencial o por videollamada) es sin compromiso. Revisamos tu situación actual y te explicamos cómo podemos ayudarte."
+        },
+        {
+          "q": "¿Atienden empresas fuera de Asunción?",
+          "a": "Sí. Trabajamos 100% digital: recibimos comprobantes por WhatsApp, email o plataforma web. Tenemos clientes en todo Paraguay (CDE, Encarnación, Luque, San Lorenzo, etc.)."
+        },
+        {
+          "q": "¿Qué es la DNIT? ¿Cambió algo respecto a la SET?",
+          "a": "Desde 2024 la SET pasó a llamarse DNIT (Dirección Nacional de Ingresos Tributarios). Marangatu, e-Kuatia y los formularios siguen vigentes. Solo cambió el nombre del organismo."
+        },
+        {
+          "q": "¿Puedo ver mis números en tiempo real?",
+          "a": "Sí. Usamos un sistema contable con acceso web donde podés consultar tu balance, IVA a pagar, posición fiscal y comprobantes cargados en cualquier momento."
+        },
+        {
+          "q": "¿Qué pasa si la DNIT me fiscaliza?",
+          "a": "Te acompañamos en todo el proceso: respuesta a requerimientos, defensa en sumario y, si corresponde, recurso ante el Tribunal de Cuentas. Estamos a tu lado."
+        },
+        {
+          "q": "¿Trabajan con inversores extranjeros?",
+          "a": "Sí. Gestionamos EAS en 72 horas, residencia fiscal, RUC y apertura de cuenta bancaria. Atención en inglés y portugués."
+        },
+        {
+          "q": "¿Emite factura por sus honorarios?",
+          "a": "Siempre. Factura Crédito Electrónica vía e-Kuatia, timbrada el mismo día del pago, válida para tu desgravación de IRP."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Lo que dicen nuestros clientes",
+      "items": [
+        {
+          "name": "Gustavo A.",
+          "role": "PYME Gastronómica",
+          "text": "Me pasaron varias multas con mi contador anterior por atraso en Marangatu. Con ellos llevo 3 años sin una sola multa."
+        },
+        {
+          "name": "Lucía M.",
+          "role": "Arquitecta Independiente",
+          "text": "Atienden por WhatsApp y me resuelven dudas el mismo día. Como profesional independiente, ahorro horas por mes."
+        },
+        {
+          "name": "Roberto F.",
+          "role": "Empresa Importadora",
+          "text": "Hicieron el due diligence de una empresa que compré. Ordenaron la contabilidad heredada y armaron planificación fiscal desde cero."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Agendá tu diagnóstico gratuito",
+      "subtitle": "En 30 minutos sabés exactamente en qué situación está tu empresa con la DNIT.",
+      "ctaText": "Reservar Consulta Gratuita",
+      "ctaHref": "https://wa.me/{{whatsapp}}?text={{whatsappMessage}}"
+    }
+  },
+  "serviciosPage": {
+    "seo": {
+      "title": "Servicios Contables | {{businessName}}",
+      "description": "Contabilidad mensual, liquidación de IVA/IRE/IRP, sueldos e IPS para PYMES en Paraguay."
+    },
+    "hero": {
+      "headline": "Servicios Contables",
+      "subheadline": "Todo lo que tu empresa necesita para estar al día con la DNIT, IPS y MTESS"
+    },
+    "intro": {
+      "text": "Somos contadores públicos matriculados en el Colegio de Contadores del Paraguay. Brindamos servicios contables, impositivos y laborales para PYMES y profesionales independientes. Trabajamos con tecnología, cumplimos plazos y te explicamos en castellano claro qué pasa con tus números."
+    },
+    "categories": [
+      {
+        "id": "contabilidad",
+        "icon": "calculator",
+        "title": "Contabilidad Mensual",
+        "description": "Registración contable completa según normativa paraguaya. Libro diario, mayor y balance mensual. Acceso web a tus números en tiempo real.",
+        "features": [
+          "Carga mensual de facturas en sistema contable",
+          "Conciliación bancaria",
+          "Libro diario y mayor digital",
+          "Balance y estado de resultados mensual",
+          "Cierre anual y presentación de Estados Financieros"
+        ]
+      },
+      {
+        "id": "impuestos",
+        "icon": "file-text",
+        "title": "Liquidación de Impuestos",
+        "description": "IVA, IRE, IRP, IDU, RESIMPLE y todas tus obligaciones ante la DNIT presentadas a tiempo vía Marangatu.",
+        "features": [
+          "Liquidación mensual de IVA (Formulario 120)",
+          "Liquidación de IRE Simple, General y RESIMPLE",
+          "Liquidación de IRP (RSP y RGC)",
+          "Liquidación de IDU (Dividendos y Utilidades)",
+          "Habilitación y gestión de e-Kuatia / e-Kuatia'i",
+          "Gestión y renovación de Timbrado",
+          "Presentaciones y DJ vía Marangatu"
+        ]
+      },
+      {
+        "id": "laboral",
+        "icon": "users",
+        "title": "Liquidación de Sueldos e IPS",
+        "description": "Planilla de sueldos, aportes IPS, comunicación REOP-MTESS y gestión laboral integral para tu empresa.",
+        "features": [
+          "Liquidación mensual de salarios y aguinaldo",
+          "Cálculo de aportes IPS (9% obrero + 16,5% patronal)",
+          "Comunicación REOP-MTESS",
+          "Vacaciones, preaviso, finiquito e indemnizaciones",
+          "Alta y baja de trabajadores en IPS y MTESS",
+          "Contratos laborales"
+        ]
+      },
+      {
+        "id": "asesoria",
+        "icon": "shield",
+        "title": "Asesoramiento Tributario",
+        "description": "Planificación fiscal, defensa ante fiscalizaciones y consultoría continua para tu tranquilidad.",
+        "features": [
+          "Diagnóstico impositivo inicial sin costo",
+          "Planificación tributaria anual",
+          "Respuesta a requerimientos de la DNIT",
+          "Defensa en fiscalizaciones y sumarios",
+          "Consultoría por WhatsApp durante el mes"
+        ]
+      },
+      {
+        "id": "societario",
+        "icon": "briefcase",
+        "title": "Constitución y Regularización",
+        "description": "Desde inscripción de RUC hasta EAS en 72 horas. Todo lo necesario para abrir tu empresa en Paraguay.",
+        "features": [
+          "Inscripción de RUC como persona física o jurídica",
+          "Constitución de EAS en 72h vía MIC",
+          "Constitución de SRL, SA y Unipersonal",
+          "Actualización de datos en DNIT",
+          "Habilitación municipal vía SUACE",
+          "Inscripción de marcas en DINAPI",
+          "Paquete para inversores extranjeros"
+        ]
+      },
+      {
+        "id": "auditoria",
+        "icon": "clipboard-check",
+        "title": "Auditoría y Balances",
+        "description": "Auditoría externa, balances certificados y due diligence contable para bancos, licitaciones y compliance.",
+        "features": [
+          "Auditoría de estados financieros anuales",
+          "Informes certificados para bancos y SEPRELAD",
+          "Balances para licitaciones DNCP",
+          "Auditoría interna y revisión de controles",
+          "Due diligence contable"
+        ]
+      }
+    ],
+    "cta": {
+      "title": "¿Necesitás un servicio que no ves acá?",
+      "subtitle": "Contactanos. Resolvemos consultas contables de todo tipo.",
+      "buttonText": "Consultar Ahora",
+      "buttonHref": "https://wa.me/{{whatsapp}}?text={{whatsappMessage}}"
+    }
+  },
+  "planesPage": {
+    "seo": {
+      "title": "Planes Mensuales | {{businessName}}",
+      "description": "Planes de contabilidad mensual para PYMES y profesionales en Paraguay. Precios claros desde 450.000 Gs/mes."
+    },
+    "hero": {
+      "headline": "Planes Mensuales",
+      "subheadline": "Honorarios claros desde el primer día. Sin sorpresas, sin letra chica."
+    },
+    "disclaimer": "Precios referenciales. El plan final se acuerda según volumen de facturación y complejidad.",
+    "plans": [
+      {
+        "id": "unipersonal",
+        "name": "Profesional Unipersonal",
+        "price": "450.000 Gs/mes",
+        "priceUsd": "$58/mes",
+        "description": "Para profesionales independientes que necesitan liquidación de IVA e IRP y hasta 30 comprobantes al mes.",
+        "features": [
+          "Liquidación mensual de IVA",
+          "Liquidación de IRP (RSP + RGC)",
+          "Hasta 30 comprobantes al mes",
+          "Renovación de Timbrado incluida",
+          "Consultas por WhatsApp",
+          "Declaración jurada anual",
+          "Factura electrónica por honorarios"
+        ]
+      },
+      {
+        "id": "pyme",
+        "name": "PYME",
+        "subtitle": "Más elegido",
+        "price": "1.200.000 Gs/mes",
+        "priceUsd": "$155/mes",
+        "description": "Para empresas con hasta 10 empleados y contabilidad mensual completa.",
+        "features": [
+          "Contabilidad mensual completa",
+          "Liquidación de IVA + IRE + IRP",
+          "Hasta 10 sueldos + IPS + MTESS",
+          "Balance mensual y anual",
+          "Conciliación bancaria",
+          "Contador asignado exclusivo",
+          "Acceso web a tus números",
+          "Planificación tributaria básica"
+        ],
+        "featured": true
+      },
+      {
+        "id": "empresa",
+        "name": "Empresa Mediana",
+        "price": "A consultar",
+        "priceUsd": "",
+        "description": "Para empresas con contabilidad de costos, múltiples sucursales o que requieren auditoría externa.",
+        "features": [
+          "Contabilidad de costos y centros de costo",
+          "Sueldos ilimitados + aguinaldos",
+          "Auditoría externa anual",
+          "Planificación tributaria trimestral",
+          "Reunión mensual con dirección",
+          "Due diligence si corresponde"
+        ]
+      }
+    ],
+    "addons": [
+      { "name": "Constitución de EAS", "price": "Desde 900.000 Gs", "note": "Incluye RUC y habilitación municipal" },
+      { "name": "Constitución de SRL", "price": "Desde 2.500.000 Gs", "note": "Incluye RUC y publicación" },
+      { "name": "Auditoría externa anual", "price": "A consultar", "note": "Precio según tamaño de la empresa" },
+      { "name": "Due diligence contable", "price": "A consultar", "note": "Para compraventa de empresas" }
+    ],
+    "cta": {
+      "title": "Agendá tu diagnóstico gratuito",
+      "subtitle": "En 30 minutos sabés exactamente cuánto vas a pagar y qué incluye.",
+      "buttonText": "Quiero mi diagnóstico",
+      "buttonHref": "https://wa.me/{{whatsapp}}?text={{whatsappMessage}}"
+    }
+  },
+  "faqPage": {
+    "seo": {
+      "title": "FAQ | {{businessName}}",
+      "description": "Respuestas a preguntas frecuentes sobre servicios contables, IVA, IRP, IPS y más en Paraguay."
+    },
+    "hero": {
+      "headline": "Preguntas Frecuentes",
+      "subheadline": "Respondemos tus dudas sobre contabilidad, impuestos y más"
+    },
+    "categories": [
+      {
+        "title": "Servicios y Precios",
+        "items": [
+          { "q": "¿La primera consulta tiene costo?", "a": "No. La primera reunión de diagnóstico es sin compromiso. Revisamos tu situación fiscal actual y te explicamos cómo podemos ayudarte." },
+          { "q": "¿Cuánto cuesta el servicio mensual?", "a": "Depende del volumen de facturación y empleados. Nuestro plan Profesional arranca en 450.000 Gs/mes y el PYME en 1.200.000 Gs/mes. Te damos un presupuesto exacto en la consulta gratuita." },
+          { "q": "¿Emiten factura por sus honorarios?", "a": "Sí. Factura Crédito Electrónica vía e-Kuatia, timbrada el mismo día del pago, 100% válida para desgravación de IRP." }
+        ]
+      },
+      {
+        "title": "Impuestos y DNIT",
+        "items": [
+          { "q": "¿Qué es la DNIT y qué cambió?", "a": "Desde 2024 la SET pasó a llamarse DNIT (Dirección Nacional de Ingresos Tributarios). Marangatu, e-Kuatia y los formularios (120, 130, 140, 211) siguen vigentes. Solo cambió el nombre del ente recaudador." },
+          { "q": "¿Qué impuestos paga una PYME en Paraguay?", "a": "Depende del régimen. Generalmente: IVA (10% o 5%), IRE (10% sobre renta neta o RESIMPLE), IRP para profesionales, IDU (15% sobre dividendos). Te explicamos cuáles aplican a tu caso." },
+          { "q": "¿Qué es el RESIMPLE?", "a": "Es el régimen simplificado del IRE para pequeñas empresas con ingresos anuales hasta 600 salarios mínimos (aproximadamente 408.000.000 Gs en 2025). Unifica varios impuestos en una sola cuota mensual." }
+        ]
+      },
+      {
+        "title": "Trámites",
+        "items": [
+          { "q": "¿Cuánto tiempo toma constituir una empresa?", "a": "La EAS (Empresa por Acciones Simplificadas) se constituye en 72 horas hábiles vía el portal del MIC. La SRL o SA toman de 2 a 4 semanas incluyendo inscripción en registros públicos y obtención de RUC." },
+          { "q": "¿Pueden hacer el traspaso desde mi contador actual?", "a": "Sí. Nos encargamos de pedir los papeles de trabajo, acceso a Marangatu y regularizar cualquier pendiente con la DNIT antes de empezar." },
+          { "q": "¿Atienden empresas fuera de Asunción?", "a": "Sí. Trabajamos 100% digital. Recibimos comprobantes por WhatsApp, email o plataforma web. Tenemos clientes en CDE, Encarnación, Luque, San Lorenzo, Caaguazú y más." }
+        ]
+      }
+    ]
+  },
+  "contactoPage": {
+    "seo": {
+      "title": "Contacto | {{businessName}}",
+      "description": "Contactanos para tu consulta contable gratuita. Respondemos por WhatsApp, teléfono y email."
+    },
+    "hero": {
+      "headline": "Contactanos",
+      "subheadline": "Agendá tu diagnóstico gratuito sin compromiso"
+    },
+    "info": {
+      "title": "Información de Contacto",
+      "items": [
+        { "icon": "map-pin", "label": "Dirección", "value": "Asunción, Paraguay" },
+        { "icon": "phone", "label": "Teléfono", "value": "+595 {{phone}}" },
+        { "icon": "mail", "label": "Email", "value": "{{email}}" },
+        { "icon": "clock", "label": "Horario", "value": "Lun a Vie: 8:00 - 18:00 | Sáb: 8:00 - 12:00" }
+      ]
+    },
+    "form": {
+      "title": "Pedí tu diagnóstico gratuito",
+      "subtitle": "Respondemos en menos de 24 horas hábiles",
+      "fields": [
+        { "name": "nombre", "label": "Nombre completo", "type": "text", "required": true },
+        { "name": "email", "label": "Correo electrónico", "type": "email", "required": true },
+        { "name": "telefono", "label": "Teléfono/WhatsApp", "type": "tel", "required": true },
+        { "name": "servicio", "label": "Servicio de interés", "type": "select", "options": ["Contabilidad Mensual", "Liquidación de Impuestos", "Sueldos e IPS", "Constitución de Empresa", "Auditoría", "No sé todavía"], "required": false },
+        { "name": "mensaje", "label": "Contanos tu situación", "type": "textarea", "required": true }
+      ],
+      "submitText": "Solicitar Diagnóstico Gratuito"
+    },
+    "cta": {
+      "title": "¿Preferís una respuesta inmediata?",
+      "subtitle": "Escribinos por WhatsApp y te respondemos al instante",
+      "buttonText": "Escribir por WhatsApp",
+      "buttonHref": "https://wa.me/{{whatsapp}}?text={{whatsappMessage}}"
+    }
+  },
+  "privacidadPage": {
+    "seo": {
+      "title": "Política de Privacidad | {{businessName}}",
+      "description": "Política de privacidad y tratamiento de datos personales."
+    },
+    "hero": {
+      "headline": "Política de Privacidad",
+      "subheadline": "Cómo protegemos tus datos personales"
+    },
+    "content": {
+      "sections": [
+        { "title": "1. Información que recopilamos", "text": "Recopilamos información personal que nos proporcionás voluntariamente al contactarnos: nombre, correo electrónico, número de teléfono y datos necesarios para los servicios contables." },
+        { "title": "2. Uso de la información", "text": "Usamos tu información exclusivamente para brindar los servicios contables solicitados y cumplir con obligaciones legales y regulatorias." },
+        { "title": "3. Confidencialidad profesional", "text": "Como contadores públicos matriculados, estamos sujetos al secreto profesional. Tu información financiera y fiscal está protegida." },
+        { "title": "4. Tus derechos", "text": "Tenés derecho a acceder, rectificar y solicitar la eliminación de tus datos personales. Contactanos para ejercer estos derechos." }
+      ]
+    }
+  }
+}
