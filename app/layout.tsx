@@ -1,6 +1,8 @@
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import "./globals.css"
+import { CookieConsent } from "@ai-whisperers/seo"
+import { WhatsAppFloat } from "@ai-whisperers/whatsapp"
 
 const inter = Inter({
   subsets: ["latin"],
@@ -42,6 +44,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="min-h-screen flex flex-col">
         {children}
+      
+        <WhatsAppFloat />
+        <CookieConsent />
       </body>
     </html>
   )
